@@ -1,4 +1,4 @@
-theme: jekyll-theme-minimal
+remote_theme: daattali/beautiful-jekyll@6.0.1
 title: Liting's homepage
 tags: [personal, analysis, finance]
 description: Bookmark this to keep an eye on my project updates!
