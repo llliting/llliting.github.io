@@ -1,4 +1,5 @@
-# Hello Welcome to Liting's Page🍀☁️👩‍💻💕
+### Hello Welcome to Liting's Blog🍀☁️👩‍💻💕
+
  Professionally, I am a student studying financial engineering and computer science @ Columbia 
  
  🌏 Born in China, currently living, studying, and hustling in the city of New York 🏙️☕
