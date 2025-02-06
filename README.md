@@ -1,6 +1,6 @@
 
 
-## Hello Welcome to Liting's Blog🍀☁️👩‍💻💕
+Hello Welcome to Liting's Blog🍀☁️👩‍💻💕
 
  Professionally, I am a student studying financial engineering and computer science @ Columbia 
  
