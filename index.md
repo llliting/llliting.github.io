@@ -1,11 +1,10 @@
 ---
 layout: page
-title: Home
 ---
 
-# Welcome to my cozy space
+#  Hello👋 Welcome to My Cozy Corner🍀☁️👩‍💻💕
 
- Hello👋 Welcome to My Cozy Corner🍀☁️👩‍💻💕
+
 
  🌟 Professionally, I am a student studying financial engineering and computer science @ Columbia 
  
