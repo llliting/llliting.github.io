@@ -1,0 +1,39 @@
+/* 设置淡蓝色背景 */
+body {
+    background-color: #e6f7ff;
+}
+
+/* 自定义导航栏样式 */
+.navbar {
+    background-color: #2e8b57; /* 深绿色 */
+    padding: 10px 20px;
+}
+
+.navbar-brand {
+    font-size: 1.5rem;
+    font-weight: bold;
+    color: #ffffff !important; /* 白色文字 */
+}
+
+.navbar-nav .nav-link {
+    color: #ffffff !important; /* 白色文字 */
+    margin-left: 15px;
+}
+
+/* 自定义标题样式 */
+h1 {
+    font-size: 3rem;
+    color: #2e8b57; /* 深绿色 */
+    margin-top: 50px;
+    text-align: center;
+}
+
+/* 自定义段落样式 */
+p {
+    font-size: 1.2rem;
+    color: #333333;
+    line-height: 1.6;
+    text-align: center;
+    max-width: 800px;
+    margin: 20px auto;
+}
