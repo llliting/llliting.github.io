@@ -2,7 +2,7 @@ remote_theme: daattali/beautiful-jekyll@6.0.1
 title: Rat's Viewpoints
 description: I share my views about life
 
-navbar-links:
-  Home: "/"
-  Posts: "/posts"
-  Projects: "/projects"
+# navbar-links:
+#   Home: "/"
+#   Posts: "/posts"
+#   Projects: "/projects"
