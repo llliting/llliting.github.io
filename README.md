@@ -1,4 +1,9 @@
+---
+layout: page
+title: Home
+---
 
+# Welcome to my cozy space
 
  Hello👋 Welcome to My Cozy Corner🍀☁️👩‍💻💕
 
