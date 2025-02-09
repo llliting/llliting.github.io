@@ -3,3 +3,15 @@ title: Rat's Viewpoints
 description: I share my views about life
 
 
+navbar-links:
+  - name: "Homepage"
+    link: "/"
+    icon: "fa fa-home"
+
+  - name: "Posts"
+    link: "/posts"
+    icon: "fa fa-book"
+
+  - name: "Projects"
+    link: "/projects"
+    icon: "fa fa-briefcase"
