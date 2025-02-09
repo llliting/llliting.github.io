@@ -2,15 +2,4 @@ remote_theme: daattali/beautiful-jekyll@6.0.1
 title: Rat's Viewpoints
 description: I share my views about life
 
-navbar-links:
-    - name: "Homepage"
-      link: "/"           # or "/index"
-      icon: "fa fa-home"  # optional Font Awesome icon
 
-    - name: "Posts"
-      link: "/posts"      # if you have a posts page at /posts
-      icon: "fa fa-book"
-
-    - name: "Projects"
-      link: "/projects"
-      icon: "fa fa-briefcase"
