@@ -12,24 +12,6 @@ body {
     /* background: linear-gradient(-45deg, #e6f7ff, #b3e5fc, #81d4fa, #4fc3f7); */
 
 
-
-/* 自定义导航栏样式 */
-.navbar {
-    background-color: rgba(46, 139, 87, 0.8);
-    padding: 10px 20px;
-}
-
-.navbar-brand {
-    font-size: 1.5rem;
-    font-weight: bold;
-    color: #ffffff !important; /* 白色文字 */
-}
-
-.navbar-nav .nav-link {
-    color: #ffffff !important; /* 白色文字 */
-    margin-left: 15px;
-}
-
 /* 自定义标题样式 */
 
 h1, h2, h3, h4, h5, h6 {

@@ -3,6 +3,14 @@ title: Rat's Viewpoints
 description: I share my views about life
 
 navbar-links:
-  Home: "/"
-  Posts: "/posts"
-  Projects: "/projects"
+  - name: "Homepage"
+    link: "/"           # or "/index"
+    icon: "fa fa-home"  # optional Font Awesome icon
+
+  - name: "Posts"
+    link: "/posts"      # if you have a posts page at /posts
+    icon: "fa fa-book"
+
+  - name: "Projects"
+    link: "/projects"
+    icon: "fa fa-briefcase"

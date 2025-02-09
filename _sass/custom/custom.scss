@@ -1,0 +1,13 @@
+/* _sass/custom/custom.scss */
+
+/* Overriding the default navbar background for the “default” theme. */
+.navbar.navbar-default {
+    background-color: transparent !important;
+    border: none !important;
+  }
+  
+  /* If your text is dark and you need a different color to see it clearly, override link color: */
+  .navbar.navbar-default .navbar-nav>li>a,
+  .navbar.navbar-default .navbar-brand {
+    color: #333 !important;  /* or whatever color you want */
+  }
