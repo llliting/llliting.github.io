@@ -10,7 +10,7 @@ title: Hello👋 Welcome to My Cozy Corner🍀☁️👩‍💻💕
  
  📈 I trade across different asset classes -- stocks, cryptos, commodities, etc 
  
- 📰 Love geeking out over news, macro trends, trade ideas, and quant strategies—always up for a great discussion! 📊✨
+ 📰 Up for discussions over news, macro trends, trade ideas, and quant strategies ... 📊✨
  
  🤖 Firm believer in the future of AI & disruptive tech, and I’m investing my heart (and wallet) into it! 🔮💡
  
